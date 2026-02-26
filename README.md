@@ -1,6 +1,6 @@
 ## 👋 Oi! Eu sou o Guilherme Oliveira
 
-💻 Desenvolvedor **Front-End** com foco em **Angular**, **JavaScript**, **HTML** e **CSS**.  
+💻 Desenvolvedor **Front-End** com foco em **Angular**, **JavaScript**, **HTML**, **CSS** e **Java**.  
 🎨 Gosto de criar interfaces modernas, responsivas e bem organizadas, sempre buscando boa experiência do usuário.
 
 ---
@@ -14,10 +14,6 @@
       <sub><b>Angular</b></sub>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="48" height="48" alt="JavaScript"/><br>
-      <sub><b>JavaScript</b></sub>
-    </td>
-    <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5"/><br>
       <sub><b>HTML5</b></sub>
     </td>
@@ -25,9 +21,12 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3"/><br>
       <sub><b>CSS3</b></sub>
     </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java"/><br>
+      <sub><b>Java</b></sub>
+    </td>
   </tr>
 </table>
-
 
 ---
 
@@ -35,7 +34,9 @@
 - Desenvolvimento de interfaces **responsivas**
 - Componentização e organização de projetos em **Angular**
 - Boas práticas de **HTML semântico** e **CSS**
-- Interesse em **UX/UI** e evolução constante como Front-End
+- Interesse em **UX/UI**
+- Experiência e estudos em **Java**
+- Evolução constante como desenvolvedor
 
 ---
 
