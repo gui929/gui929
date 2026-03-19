@@ -34,7 +34,6 @@
 - Desenvolvimento de interfaces **responsivas**
 - Componentização e organização de projetos em **Angular**
 - Boas práticas de **HTML semântico** e **CSS**
-- Interesse em **UX/UI**
 - Experiência e estudos em **Java**
 - Evolução constante como desenvolvedor
 
