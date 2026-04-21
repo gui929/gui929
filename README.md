@@ -9,6 +9,10 @@
 
 <table>
   <tr>
+  <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React"/><br>
+      <sub><b>React</b></sub>
+    </td>
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="48" height="48" alt="Angular"/><br>
       <sub><b>Angular</b></sub>
